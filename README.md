@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fourth-year Computer Engineering student
 ---------------------------------------
 
-Building a solid foundation one project at a time
-
-* 🌍  I'm based in İstanbul
+* 🌍  I'm based in Sakarya
 * ✉️  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
 * 🚀  I'm currently working on [a Recipe Book Web Site](http://ozturkvedat.github.io/Recipe_Book_App/)
 * 🧠  I'm learning PyTorch library
