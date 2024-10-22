@@ -6,7 +6,7 @@ Fourth-year Computer Engineering student
 
 * 🌍  I'm based in Sakarya
 * ✉️  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
-* 🚀  I'm currently working on [a Recipe Book Web Site](http://ozturkvedat.github.io/Recipe_Book_App/)
+* 🚀  I'm currently working on [a Real Time Chat App](https://github.com/OzturkVedat/RealTimeChatApp_Backend)
 * 🧠  I'm learning PyTorch library
 
 ### Skills
