@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fourth-year Computer Engineering student
 ---------------------------------------
 
-* 🌍  I'm based in Sakarya
+* 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
 * 🚀  I'm currently working on [a mobile app](https://github.com/OzturkVedat/SpeechProcessing_Mobile)
 * 🧠  I'm learning PyTorch library
