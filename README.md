@@ -6,7 +6,7 @@ Fourth-year Computer Engineering student
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
-* 🚀  I'm currently working on an [image repository infrastructure](https://github.com/OzturkVedat/PicHub.API)
+* 🚀  I'm currently working on an [e-commerce infrastructure](https://github.com/OzturkVedat/GoOrder)
 
 ### Skills
 
