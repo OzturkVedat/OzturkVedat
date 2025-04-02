@@ -25,7 +25,7 @@ Fourth-year Computer Engineering student
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/terraform.svg" width="36" height="36" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/terraform.svg" width="36" height="36" alt="Terraform" />
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
