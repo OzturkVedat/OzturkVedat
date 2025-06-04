@@ -23,12 +23,12 @@ Fourth-year Computer Engineering student
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Terraform" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /a>
 </p>
-
 
 ### Socials
 
