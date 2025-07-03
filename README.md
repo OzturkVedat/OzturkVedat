@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vedat Öztürk.
 ====================================================================================================================================
 
-Computer Engineer
----------------------------------------
-
 *  I'm based in İstanbul
 *  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
 
