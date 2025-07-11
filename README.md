@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *  I'm based in İstanbul
 *  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
+*  I'm interested in machine learning, cloud and web technologies
 
 ### Skills
 
