@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *  I'm based in İstanbul
 *  You can contact me at [ozturkvedat72@gmail.com](mailto:ozturkvedat72@gmail.com)
 *  I'm interested in machine learning, cloud and web technologies
-
 ---
 
 ### Skills
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -23,11 +21,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
 </p>
-
 ---
 
 ### Socials
-
 <p align="left">
 <a href="https://www.github.com/OzturkVedat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.linkedin.com/in/vedat-ozturk/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
@@ -37,11 +33,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </picture>
 </a>
 </p>
-
 ---
 
 ### Stats
-
 | | |
 |---|---|
 | <img alt="Vedat's GitHub stats" src="https://github-readme-stats-kappa-puce.vercel.app/api?username=OzturkVedat&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&theme=radical" /> | <img alt="Top languages" src="https://github-readme-stats-kappa-puce.vercel.app/api/top-langs/?username=OzturkVedat&layout=compact&cache_seconds=21600&theme=radical" /> |
