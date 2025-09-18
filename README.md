@@ -34,5 +34,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </p>
 
+### Stats
+
+| | |
+|---|---|
+| <img alt="Vedat's GitHub stats" src="https://github-readme-stats-kappa-puce.vercel.app/api?username=OzturkVedat&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&theme=radical" /> | <img alt="Top languages" src="https://github-readme-stats-kappa-puce.vercel.app/api/top-langs/?username=OzturkVedat&layout=compact&cache_seconds=21600&theme=radical" /> |
+
+
 <img alt="my stats" align="left" width="49%" src= "https://github-readme-stats.vercel.app/api?username=OzturkVedat&show_icons=true"/>
 <img alt="top langs" align="left" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=OzturkVedat&layout=compact"/>
