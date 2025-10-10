@@ -50,9 +50,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ### Stats
-<img alt="Vedat's GitHub stats"
-     src="https://github-readme-stats-kappa-puce.vercel.app/api?username=OzturkVedat&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&theme=radical"
+<img alt="GitHub stats"
+     src="https://github-readme-stats-kappa-puce.vercel.app/api?username=OzturkVedat&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&theme=graywhite"
      width="55%" /> 
 <img alt="Top languages"
-     src="https://github-readme-stats-kappa-puce.vercel.app/api/top-langs/?username=OzturkVedat&layout=compact&cache_seconds=21600&theme=radical"
+     src="https://github-readme-stats-kappa-puce.vercel.app/api/top-langs/?username=OzturkVedat&layout=compact&cache_seconds=21600&theme=graywhite"
      width="42%" />
