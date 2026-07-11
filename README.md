@@ -39,13 +39,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" />
     </picture>
   </a>
-  <a href="https://medium.com/@ozturkvedat72" target="_blank" rel="noopener noreferrer" aria-label="Medium">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="42" height="42" alt="Medium" />
-    </picture>
-  </a>
 </p>
 
 
